@@ -145,7 +145,15 @@ h6 {
     background-color: rgb(0,0,0,0) !important;
   }
 }
-
+.navbar-item {
+  background-color: rgb(0,0,0,0) !important;
+}
+.navbar-item:visited {
+  color: white !important;
+}
+.navbar-item:visited:hover {
+  color: #49a760 !important;
+}
 .has-text-primary {
   color: #49a760 !important;
 }
