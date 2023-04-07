@@ -209,3 +209,10 @@ transition: 0.2s !important;
 .main-logo-text {
   color: white !important;
 }
+
+.navbar-item-mobile {
+  color: black !important;
+}
+.navbar-item-mobile:visited {
+  color: black !important;
+}
